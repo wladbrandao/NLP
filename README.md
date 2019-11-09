@@ -1,7 +1,7 @@
 # Natural Language Processing
 This is a set of lectures and material on natural language processing providing an introduction to the main methods and algorithms used to address practical problems involving natural language. See also the current courses related to this topic:
 
-* [Natural Language Processing: 1st semester, Graduate Program in Informatics, PUC Minas](NLP202001).
+* [Natural Language Processing](NLP202001.md): course offered in the 1st semester of 2020 to the students of the [Graduate Program in Informatics](http://portal.pucminas.br/pos/informatica) at [PUC Minas](http://www.pucminas.br).
 
 ## Introduction
 Natural language processing (NLP) refers to the set of methods for making human language accessible to machines \[[1](#Eisenstein-2018-BOOK)\]. Particularly, it designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[2](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition, automatic text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
@@ -29,15 +29,15 @@ Recent advances in artificial intelligence and high performance computing have l
 
 ### Videos
 
-1. [Channel: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University.
+1. [Channel: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University
 
 ### Other Resources
 
-1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael A. Nielsen.
+1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael A. Nielsen
 
 ## Further Information
 
-Most of the topics of the lectures are taken from \[[1](#Eisenstein:2018@BOOK)\], \[[2](#Elmasri:2016@BOOK)\] and \[[3](#Jurafsky:2019@BOOK)\]. Material and assignments are mostly inspired by the Stanford course [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/).
+Most of the topics of the lectures are taken from \[[1](#Eisenstein-2018-BOOK)\], \[[2](#Elmasri-2016-BOOK)\] and \[[3](#Jurafsky-2019-BOOK)\]. Material and assignments are mostly inspired by the Stanford course [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/).
 
 
 ## References
