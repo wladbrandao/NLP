@@ -8,7 +8,7 @@ Natural language processing (NLP) refers to the set of methods for making human 
 
 The history of NLP dates back to the 1950s with experiments on automatic machine translation. In the following years experiments on chatbots, conceptual ontologies and question answering were developed and the proposed approaches were mostly based on complex sets of hand-written rules.
 In the late 80's, the introduction of machine learning algorithms for language processing produced a new paradigm distinct from rule-based NLP, with research mostly focusing on de development of statistical models to make probabilistic decisions based on features extracted from text corpus.
-Recent advances in artificial intelligence and high performance computing have led to an intensive use of powerful machine learning algorithms in NLP, such that deep neural network based approaches has been viewed as a new paradigm distinct from statistical NLP.
+Recent advances in artificial intelligence and high performance computing have led to an intensive use of special machine learning algorithms for NLP, such that deep neural network based approaches has been viewed as a new paradigm distinct from statistical NLP.
 
 ## Lectures
 
