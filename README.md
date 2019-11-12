@@ -38,11 +38,12 @@ Such neural NLP have been they have been more effective for understanding comple
 
 ### Other Resources
 
-1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael A. Nielsen
+1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael A. Nielsen.
+1. [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
 ## Further Information
 
-Most of the topics of the lectures are taken from \[[1](#Eisenstein-2018-BOOK)\], \[[2](#Elmasri-2016-BOOK)\] and \[[3](#Jurafsky-2019-BOOK)\]. Material and assignments are mostly inspired by the Stanford course [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/).
+Most of the topics of the lectures are taken from \[[1](#Jurafsky-2019-BOOK)\], \[[2](#Eisenstein-2018-BOOK)\] and \[[3](#Goldberg-2017-SLHLT)\]. Material and assignments are mostly inspired by the Stanford course [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/).
 
 
 ## References
