@@ -4,11 +4,16 @@ This is a set of lectures and material on natural language processing providing 
 * [Introduction to Natural Language Processing](NLP202001.md): course offered in the 1st semester of 2020 to the students of the [Graduate Program in Informatics](http://portal.pucminas.br/pos/informatica) at [PUC Minas](http://www.pucminas.br).
 
 ## Introduction
-Natural language processing (NLP) refers to the set of methods for making human language accessible to machines \[[1](#Eisenstein-2018-BOOK)\]. Particularly, it designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[2](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition, automatic text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
+Natural language processing (NLP) is one of the most important technologies since people communicate most everything in language, from emails, instant messages, web search, posts in social networks to customer service and medical reports.
+Particularly, NLP refers to the set of methods for making human language accessible to machines \[[1](#Eisenstein-2018-BOOK)\]. It designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[2](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition, automatic text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
 
 The history of NLP dates back to the 1950s with experiments on automatic machine translation. In the following years experiments on chatbots, conceptual ontologies and question answering were developed and the proposed approaches were mostly based on complex sets of hand-written rules.
-In the late 80's, the introduction of machine learning algorithms for language processing produced a new paradigm distinct from rule-based NLP, with research mostly focusing on de development of statistical models to make probabilistic decisions based on features extracted from text corpus.
-Recent advances in artificial intelligence and high performance computing have led to an intensive use of special machine learning algorithms for NLP, such that deep neural network based approaches has been viewed as a new paradigm distinct from statistical NLP.
+In the late 80's, the introduction of machine learning algorithms for language processing produced a new paradigm distinct from rule-based NLP, with research mostly focusing on the development of statistical models to make probabilistic decisions based on features extracted from text corpus.
+
+Recent advances in artificial intelligence and high performance computing have led to an intensive use of new machine learning models powering NLP applications.
+In particular, deep neural network based approaches have obtained very high performance across many different
+NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task specific feature engineering.
+Such neural NLP have been they have been more effective for understanding complex language utterances and have been viewed as a new paradigm distinct from statistical NLP.
 
 ## Lectures
 
