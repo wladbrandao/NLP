@@ -34,7 +34,7 @@ Such neural NLP have been they have been more effective for understanding comple
 
 ### Videos
 
-1. [Channel: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University
+1. [Channel: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University.
 
 ### Other Resources
 
