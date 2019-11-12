@@ -5,14 +5,14 @@ This is a set of lectures and material on natural language processing providing 
 
 ## Introduction
 Natural language processing (NLP) is one of the most important technologies since people communicate most everything in language, from emails, instant messages, web search, posts in social networks to customer service and medical reports.
-Particularly, NLP refers to the set of methods for making human language accessible to machines \[[1](#Eisenstein-2018-BOOK)\]. It designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[2](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition, automatic text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
+Particularly, NLP refers to the set of methods for making human language accessible to machines \[[2](#Eisenstein-2018-BOOK)\]. It designates the design and analysis of representations, methods and algorithms to solve practical language problems by taking as input or produce as output unstructured natural human language data \[[3](#Goldberg-2017-SLHLT)\]. Usually, problems in NLP involve automatic speech recognition and text summarization, information extraction, machine translation, natural language understanding and generation, sentiment and discouse analysis.
 
-The history of NLP dates back to the 1950s with experiments on automatic machine translation. In the following years experiments on chatbots, conceptual ontologies and question answering were developed and the proposed approaches were mostly based on complex sets of hand-written rules.
-In the late 80's, the introduction of machine learning algorithms for language processing produced a new paradigm distinct from rule-based NLP, with research mostly focusing on the development of statistical models to make probabilistic decisions based on features extracted from text corpus.
+The history of NLP dates back to the 1950s with experiments on automatic machine translation \[[6](#MIT-1952-CMT)\]. In the following years experiments on chatbots, conceptual ontologies and question answering were developed and the proposed approaches were mostly based on complex sets of hand-written rules.
+In the late 80's, the introduction of machine learning algorithms for language processing produced a new paradigm distinct from rule-based NLP, with research mostly focusing on the development of statistical models to make probabilistic decisions based on features extracted from text corpus \[[5](#Johnson-2009-EACL)\].
 
 Recent advances in artificial intelligence and high performance computing have led to an intensive use of new machine learning models powering NLP applications.
 In particular, deep neural network based approaches have obtained very high performance across many different
-NLP tasks. These models can often be trained with a single end-to-end model and do not require traditional, task specific feature engineering.
+NLP tasks \[[4](#Goldberg-2016-JAIR)\]. These models can often be trained with a single end-to-end model and do not require traditional, task specific feature engineering.
 Such neural NLP have been they have been more effective for understanding complex language utterances and have been viewed as a new paradigm distinct from statistical NLP.
 
 ## Lectures
@@ -47,13 +47,21 @@ Most of the topics of the lectures are taken from \[[1](#Eisenstein-2018-BOOK)\]
 
 ## References
 
-<a name="Eisenstein-2018-BOOK"></a>\[[1][1]\] Jacob Eisenstein. Natural Language Processing. MIT Press. 2018.
+<a name="Jurafsky-2019-BOOK"></a>\[[1][1]\] Dan Jurafsky, and James H. Martin. Speech and Language Processing. 3rd ed. 2019.
 
-<a name="Goldberg-2017-SLHLT"></a>\[[2][2]\] Yoav Goldberg. Neural network methods for natural language processing. Synthesis Lectures on Human Language Technologies, 10(1):1–309. 2017.
+<a name="Eisenstein-2018-BOOK"></a>\[[2][2]\] Jacob Eisenstein. Natural Language Processing. MIT Press. 2018.
 
-<a name="Jurafsky-2019-BOOK"></a>\[[3][3]\] Dan Jurafsky, and James H. Martin. Speech and Language Processing. 3rd ed. 2019.
+<a name="Goldberg-2017-SLHLT"></a>\[[3][3]\] Yoav Goldberg. Neural network methods for natural language processing. Synthesis Lectures on Human Language Technologies, 10(1):1–309. 2017.
 
+<a name="Goldberg-2016-JAIR"></a>\[[4][4]\] Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing. Journal of Artificial Intelligence Research, 57(1):345-420. 2016.
 
-[1]: https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
-[2]: https://dl.acm.org/citation.cfm?id=3110856
-[3]: https://web.stanford.edu/~jurafsky/slp3/
+<a name="Johnson-2009-EACL"></a>\[[5][5]\] Mark Johnson. How the Statistical Revolution Changes (Computational) Linguistics. In Proceedings of the EACL Workshop on the Interaction between Linguistics and Computational Linguistics, p. 3-11, 2009.
+
+<a name="MIT-1952-CMT"></a>\[[6][6]\] Conference on Mechanical Translation. MIT. 1952.
+
+[1]: https://web.stanford.edu/~jurafsky/slp3/
+[2]: https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+[3]: https://dl.acm.org/citation.cfm?id=3110856
+[4]: https://doi.org/10.1613/jair.4992
+[5]: https://www.aclweb.org/anthology/W09-0103
+[6]: http://mt-archive.info/MIT-1952-TOC.htm
