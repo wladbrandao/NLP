@@ -61,7 +61,7 @@ Most of the topics of the lectures are taken from \[[1](#Eisenstein-2018-BOOK)\]
 
 [1]: https://web.stanford.edu/~jurafsky/slp3/
 [2]: https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
-[3]: https://dl.acm.org/citation.cfm?id=3110856
+[3]: https://doi.org/10.2200/S00762ED1V01Y201703HLT037
 [4]: https://doi.org/10.1613/jair.4992
 [5]: https://www.aclweb.org/anthology/W09-0103
 [6]: http://mt-archive.info/MIT-1952-TOC.htm
