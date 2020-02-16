@@ -19,27 +19,37 @@ Such neural NLP have been they have been more effective for understanding comple
 
 ## Lectures
 
-1. Introduction to NLP [ slides ]
-1. Vector representations [ slides ]
-1. Language modeling [ slides ]
-1. Text classification [ slides ]
-1. Linear models for NLP [ slides ]
-1. Introduction to neural networks [ slides ]
-1. Tagging [ slides ]
-1. Sequence labeling [ slides ]
-1. Language generation [ slides ]
-1. Parsing and context-free grammars [ slides ]
+1. Introduction to NLP [ [sl01](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/slides/ch01-intro.pdf) | [sl02](http://www3.cs.stonybrook.edu/~cse634/L16NLP.pdf) | [sl03](http://courses.cs.washington.edu/courses/cse490u/17wi/slides/intro-slides.pdf)]
+1. Basic text processing [ [sl04](http://spark-public.s3.amazonaws.com/nlp/slides/textprocessingboth.pdf) ]
+1. Text representation [ [sl05](http://web.stanford.edu/~jurafsky/slp3/slides/vector1.pdf) | [sl06](http://web.stanford.edu/~jurafsky/slp3/slides/vector2.pdf) ]
+1. Text classification [ [sl07](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/slides/ch02-linear-classification.pdf) | [sl08](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/slides/ch03-nonlinear-classification.pdf) | [sl09](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/slides/ch04-applications-of-classification.pdf) | [sl10](http://spark-public.s3.amazonaws.com/nlp/slides/naivebayes.pdf) ]
+1. Language modeling [ [sl11](http://cs.columbia.edu/~mcollins/cs4705-spring2019/slides/lmslides.pdf) | [sl12](http://spark-public.s3.amazonaws.com/nlp/slides/languagemodeling.pdf) ]
+1. POS Tagging [ [sl13](http://spark-public.s3.amazonaws.com/nlp/slides/Maxent_PosTagging.pdf) ]
+1. Parsing and context-free grammars [ [sl14](http://spark-public.s3.amazonaws.com/nlp/slides/Parsing-Intro.pdf) | [sl15](http://spark-public.s3.amazonaws.com/nlp/slides/Parsing-Probabilistic.pdf) | [sl16](http://spark-public.s3.amazonaws.com/nlp/slides/Parsing-Lexicalization.pdf)]
+1. Information extraction [ [sl17](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/2017-materials/slides/ie-slides.pdf) | [sl18](http://spark-public.s3.amazonaws.com/nlp/slides/Information_Extraction_and_Named_Entity_Recognition_v2.pdf) ]
+1. Text summarization [ [sl19](http://spark-public.s3.amazonaws.com/nlp/slides/summarization.pdf) ]
+1. Machine translation [ [sl20](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/2017-materials/slides/mt-slides.pdf) ]
+1. Question answering [ [sl21](http://spark-public.s3.amazonaws.com/nlp/slides/qa.pdf) ]
+1. Language generation [ [sl22](https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture15-nlg.pdf) ]
+1. Text Semantics [ [sl23](http://spark-public.s3.amazonaws.com/nlp/slides/sem.pdf) ]
+1. Introduction to neural networks [ [sl24](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture24.pdf) | [sl25](http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture04-neuralnets.pdf) | [sl26](http://www.cs.virginia.edu/~jjl5sw/documents/DeepLearningIntro.pdf) ]
 1. Text embeddings [ slides ]
 1. Neural language models [ slides ]
+
+
+* And more... [NLP with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 ## Material
 
 ### Videos
 
+1. [Channel: Natural Language Processing](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true) by Dan Jurafsky and Christopher Manning.
+1. [Channel: From Languages to Information](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA) by Dan Jurafsky.
 1. [Channel: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) by Stanford University.
 
 ### Other Resources
 
+1. [Natural Language Processing](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) by Dan Jurafsky and Christopher Manning
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael A. Nielsen.
 1. [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville.
 
